@@ -1,6 +1,6 @@
 import os
 import shutil
-file_to_organize = r"C:\Users\kenny\Pictures\Screenshots\messyfolder"
+file_to_organize = r"C:\Users\kenny\Downloads"
 file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
     "Documents": [".pdf", ".docx", ".txt", ".xlsx"],
